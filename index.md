@@ -1,10 +1,3 @@
----
-title: Rendered Example
-background: sky
-preloader: true
-tags: ["landing", "demostration", "unmarkdocs"]
----
-
 # How it Works
 
 You provide the Markdown, we provide the hosting, styles, scripts... everything.
@@ -23,11 +16,11 @@ var demo = demo + " like the one you're seeing :)";
 This would show an alert in a charming blue color, to let you know everything is OK.
 !!!
 
-![This would render a YouTube video](youtube:dQw4w9WgXcQ)
+![This would render a YouTube video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![It also works with Vimeo...](vimeo:51896917)
+![It also works with Vimeo...](https://vimeo.com/51896917)
 
-![And with GitHub Gists](gist:m1guelpf/0a6d0853cff77e77356e6b9b9e52a41d)
+![And with GitHub Gists](https://gist.github.com/m1guelpf/0a6d0853cff77e77356e6b9b9e52a41d)
 
 We also have tables, styled headings...
 To get the complete picture, click the button in the upper rigth corner of this code block.
