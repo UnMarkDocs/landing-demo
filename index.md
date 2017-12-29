@@ -31,4 +31,4 @@ This would show an alert in a charming blue color, to let you know everything is
 |Support | Tables |
 
 
-To get the complete picture, click the button in the upper rigth corner of this code block.
+To get the complete picture, click the button in the upper right corner of this code block.
